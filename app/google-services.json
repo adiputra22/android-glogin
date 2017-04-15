@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "554890086488",
+    "project_id": "bambidealappid"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554890086488:android:c9c399c93c0d1696",
+        "android_client_info": {
+          "package_name": "com.bambideal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554890086488-p0mgbc3d76rgivfbpmggfp9vtdro44e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bambideal",
+            "certificate_hash": "98f97894c6c178e03a8d1ede42bb6a6bd83d7be2"
+          }
+        },
+        {
+          "client_id": "554890086488-4fh8p4q5viqeulg777oor1a8o2tt3s3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKpQMN7Or8ClkYvcCOu_NK9jBHXmbs4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554890086488:android:d6af2e3d120b0c95",
+        "android_client_info": {
+          "package_name": "com.adiputra.layanto.glogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554890086488-aggda7hv6s1f0k099d6vmgup2fl9v31d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adiputra.layanto.glogin",
+            "certificate_hash": "fc3bfa7ef58cbff1e069ccbf42c57578172a9492"
+          }
+        },
+        {
+          "client_id": "554890086488-4fh8p4q5viqeulg777oor1a8o2tt3s3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKpQMN7Or8ClkYvcCOu_NK9jBHXmbs4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
